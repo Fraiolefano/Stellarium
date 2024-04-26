@@ -1,8 +1,0 @@
-converti dati radec in altzim
-
-posizioni sulla sfera
-
-rotazione in base a tempo trascorso da coordinate acquisite
-(now - 1991 *vAngolare stella % 360) ->totalRotation prima di partire
-
-ruoti a velocità rotazione stelle
