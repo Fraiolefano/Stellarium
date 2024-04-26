@@ -1,0 +1,105 @@
+|3001||Spiral galaxy|Antlia|09h 46m 18.7s|−30° 26′ 15″|11.83
+|3021||Spiral galaxy|Leo Minor|09h 50m 57s|33° 33′ 15″|12.2
+|3030||Galaxy|Hydra|09h 50m 10.5s|−12° 13′ 35″|15
+|3031|Messier 81|Spiral galaxy|Ursa Major|09h 55m 33.2s|+69° 03′ 55″|8.1
+|3032||Lenticular galaxy|Leo|09h 52m 08.2s|+29° 14′ 12″|13.0
+|3033||Open cluster|Vela|09h 48m 30s|−56° 26′|9.2
+|3034|Messier 82|Irregular galaxy|Ursa Major|09h 55m 52.2s|+69° 40′ 49″|9.2
+|3035||Spiral galaxy|Sextans|09h 51m 54.0s|−06° 49′ 15″|13.5
+|3041||Barred spiral galaxy|Leo|09h 53m 7.1s|+16° 40′ 40″|10.36
+|3049||Spiral galaxy|Leo|09h 54m 49.8s|+09° 16′ 17″|13.5
+|3054||Spiral galaxy|Hydra|09h 54m 28.9s|−25° 42′ 07″|12.2
+|3077||Irregular galaxy|Ursa Major|10h 03m 20.0s|+68° 44′ 02″|10.9
+|3079||Spiral galaxy|Ursa Major|10h 01m 58.5s|+55° 40′ 50″|11.2
+|3109||Irregular galaxy|Hydra|10h 03m 06.7s|−26° 09′ 32″|12
+|3110 (aka 3122)||Spiral galaxy|Leo|10h 04m 01.9s|−06° 28′ 29″|13.5
+|3115|Spindle Galaxy|Lenticular galaxy|Sextans|10h 05m 13.8s|−07° 43′ 08″|11
+|3132|Eight-Burst Nebula|Planetary nebula|Vela|10h 07m 01.8s|−40° 26′ 11″|10.1
+|3169||Spiral galaxy|Sextans|10h 14m 14.7s|+03° 28′ 01″|10.3
+|3180|(Located in NGC 3184)|Diffuse nebula|Ursa Major|10h 18m 17.0s|+41° 25′ 26″|10.4
+|3181|(Located in NGC 3184)|Diffuse nebula[6]|Ursa Major|10h 18m 11.5s[6]|+41° 24′ 46″[6]|
+|3182||Spiral galaxy|Ursa Major|10h 19m 33.3s|+58° 12′ 20″|13.0
+|3183||Spiral galaxy|Draco|10h 21m 48.9s|+74° 10′ 40″|12.5
+|3184||Spiral galaxy|Ursa Major|10h 18m 17.0s|+41° 25′ 26″|10.4
+|3185||Spiral galaxy|Leo|10h 17m 38.7s|+21° 41′ 17″|12.9
+|3186||Galaxy|Leo|10h 17m 38.0s|+06° 58′ 16″|15.0
+|3187||Spiral galaxy|Leo|10h 17m 47.9s|+21° 52′ 24″|13.8
+|3188||Spiral galaxy|Ursa Major|10h 19m 42.8s|+57° 25′ 25″|14.7
+|3189|(Duplicate of NGC 3190)|Spiral galaxy|Leo|10h 18m 05.6s|+21° 49′ 52″|11.9
+|3190||Spiral galaxy|Leo|10h 18m 05.6s|+21° 49′ 52″|11.9
+|3191||Spiral galaxy|Ursa Major|10h 19m 05.2s|+46° 27′ 17″|13.9
+|3192|(Duplicate of NGC 3191)[6]|Spiral galaxy|Ursa Major|10h 18m 58.4s|+46° 27′ 16″|16.1
+|3193||Elliptical galaxy|Leo|10h 18m 25.0s|+21° 53′ 37″|12.4
+|3194||Spiral galaxy|Draco|10h 17m 40.2s|+74° 20′ 50″|13.9
+|3195||Planetary nebula|Chamaeleon|10h 09m 20.9s|−80° 51′ 31″|
+|3196||Galaxy|Leo|10h 18m 49.0s|+27° 40′ 08″|15.7
+|3197||Spiral galaxy|Draco|10h 14m 28.2s|+77° 49′ 12″|14.5
+|3198||Spiral galaxy|Ursa Major|10h 19m 54.8s|+45° 33′ 01″|10.7
+|3199||Diffuse nebula|Carina|10h 16m 32.8s|−57° 56′ 02″|
+|3200||Spiral galaxy|Hydra|10h 18m 36.4s|−17° 58′ 57″|12.3
+|3201||Globular cluster|Vela|10h 17m 36.8s|−46° 24′ 40″|9.2
+|3218|(Duplicate of NGC 3183)|Spiral galaxy|Draco|10h 21m 48.9s|+74° 10′ 40″|12.5
+|3226||Elliptical galaxy|Leo|10h 23m 27.1s|+19° 53′ 55″|13.3
+|3227||Spiral galaxy|Leo|10h 23m 30.6s|+19° 51′ 54″|13.5
+|3239||Irregular Galaxy|Leo|10h 25m 00s|17° 09′ 00″|13.5
+|3242|Cat's Eye Nebula;Ghost of Jupiter|Planetary nebula|Hydra|10h 24m 46.1s|−18° 38′ 33″|10.3
+|3244||Spiral galaxy|Antlia|10h 25m 29.2s|−39° 49′ 40″|12.3
+|3245||Lenticular galaxy|Leo Minor|10h 27m 18.5s|+28° 30′ 25″|11.6
+|3265||Elliptical galaxy|Leo Minor|10h 31m 06.8s|+28° 47′ 47″|14.1
+|3293||Open cluster|Carina|10h 35m 48.8s|−58° 13′ 00″|4.8
+|3310||Spiral galaxy|Ursa Major|10h 38m 45.9s|+53° 30′ 12″|11.0
+|3311||Elliptical galaxy|Hydra|10h 36m 43.3s|−27° 31′ 41″|13
+|3312||Spiral galaxy|Hydra|10h 37m 02.3s|−27° 33′ 54″|12.7
+|3314||Spiral galaxy occulted by another spiral galaxy[7]|Hydra|10h 37m 12.8s|−27° 41′ 04″|13.1
+|3319||Barred spiral galaxy|Ursa Major|10h 39m 09s|+41° 41′ 12″|11.07
+|3344||Spiral galaxy|Leo Minor|10h 43m 31.1s|+24° 55′ 20″|10.5
+|3351|Messier 95|Spiral galaxy|Leo|10h 43m 57.7s|+11° 42′ 13″|11.2
+|3359||Spiral galaxy|Ursa Major|10h 46m 36.6s|+63° 13′ 25″|11.0
+|3368|Messier 96|Spiral galaxy|Leo|10h 46m 45.8s|+11° 49′ 10″|10.0
+|3369||Lenticular galaxy|Hydra|10h 46m 44.9s|−25° 14′ 34″|14.6
+|3370||Spiral galaxy|Leo|10h 47m 04.2s|+17° 16′ 23″|12.4
+|3371|(Duplicate of NGC 3384)|Lenticular galaxy|Leo|10h 48m 16.9s|+12° 37′ 43″|10.0
+|3372|Eta Carina Nebula;Keyhole Nebula|Diffuse nebula|Carina|10h 44m 19.0s|−59° 53′ 21″|
+|3379|Messier 105|Elliptical galaxy|Leo|10h 47m 49.8s|+12° 34′ 55″|9.6
+|3384||Lenticular galaxy|Leo|10h 48m 16.9s|+12° 37′ 43″|10.0
+|3486||Spiral galaxy|Leo Minor|11h 00m 24.1s|+28° 58′ 32″|11.2
+|3518|(Duplicate entry for NGC 3110)|Spiral galaxy|Leo|10h 04m 01.9s|−06° 28′ 29″|13.5
+|3521||Spiral galaxy|Leo|11h 05m 48.9s|−00° 02′ 06″|10.1
+|3532||Open cluster|Carina|11h 05m 33s|−58° 44′|3.3
+|3539||Lenticular galaxy|Ursa Major|11h 09m 08.8s|+28° 40′ 21″|
+|3545||Elliptical galaxy|Ursa Major|11h 10m 12.7s|+36° 57′ 56″|
+|3545B||Elliptical galaxy|Ursa Major|11h 10m 13.2s|+36° 58′ 00″|
+|3550||Lenticular|Ursa Major|11h 10m 38.3s|+28° 46′ 04″|
+|3552||Lenticular|Ursa Major|11h 10m 42.8s|+28° 41′ 25″|
+|3553||Lenticular|Ursa Major|11h 10m 40.3s|+28° 51′ 09″|
+|3554||Elliptical|Ursa Major|11h 10m 47.8s|+28° 39′ 38″|
+|3556|Messier 108|Spiral galaxy|Ursa Major|11h 11m 31.3s|+55° 40′ 31″|10.7
+|3576||Diffuse nebula|Carina|11h 11m 49.8s|−61° 18′ 14″|
+|3587|Messier 97;Owl Nebula|Planetary nebula|Ursa Major|11h 14m 47.7s|+55° 01′ 09″|
+|3593||Spiral galaxy|Leo|11h 14m 37.1s|+12° 49′ 03″|11.8
+|3596||Spiral galaxy|Leo|11h 15m 06.3s|+14° 47′ 12″|11.7
+|3603||Diffuse nebula|Carina|11h 15m 09.1s|−61° 16′ 17″|10.1
+|3621||Spiral galaxy|Hydra|11h 18m 16.8s|−32° 48′ 49″|10.0
+|3623|Messier 65|Spiral galaxy|Leo|11h 18m 55.8s|+13° 05′ 32″|9.6
+|3627|Messier 66|Spiral galaxy|Leo|11h 20m 15.1s|+12° 59′ 22″|8.9
+|3628||Spiral galaxy|Leo|11h 20m 16.9s|+13° 35′ 14″|11.5
+|3629||Spiral galaxy|Leo|11h 20m 31.9s|+26° 57′ 47″|12.9
+|3646||Ring galaxy|Leo|11h 21m 43s|+20° 10′ 10″|11.13
+|3690||Interacting galaxies|Ursa Major|11h 28m 33.1s|+58° 33′ 54″|11.8
+|3758|Markarian 739||toward Leo|||
+|3766||Open cluster|Centaurus|11h 36m 13.3s|−61° 36′ 55″|5.7
+|3773||Lenticular galaxy|Leo|11h 38m 13.1s|+12° 06′ 43″|13.1
+|3783||Barred spiral|Centaurus|11h 39m 01.721s|–37° 44′ 18.60″|
+|3808A||Interacting galaxy|Leo|11h 40m 44.2s|+22° 25′ 46″|14.1
+|3808B||Interacting galaxy|Leo|11h 40m 44.5s|+22° 26′ 48″|15
+|3842||Elliptical galaxy|Leo|11h 44m 02.1s|+19° 56′ 59″|12.5
+|3862||Elliptical galaxy|Leo|11h 44m 05.0s|+19° 36′ 23″|14
+|3877||Spiral galaxy|Ursa Major|11h 46m 07.8s|+47° 29′ 41″|11.8
+|3918||Planetary nebula|Centaurus|11h 50m 17.7s|−57° 10′ 57″|10.0
+|3938||Spiral galaxy|Ursa Major|11h 52m 49.5s|+44° 07′ 13″|11.0
+|3944||Elliptical galaxy|Leo|11h 53m 05.1s|+26° 12′ 25″|12.9
+|3949||Spiral galaxy|Ursa Major|11h 53m 41.9s|+47° 51′ 29″|10.9
+|3953||Spiral galaxy|Ursa Major|11h 53m 49.1s|+52° 19′ 37″|10.8
+|3982||Spiral galaxy|Ursa Major|11h 56m 28.3s|+55° 07′ 29″|11.6
+|3992|Messier 109|Spiral galaxy|Ursa Major|11h 57m 35.9s|+53° 22′ 35″|10.7
+|3999||Lenticular galaxy|Leo|11h 57m 56.5s|+25° 04′ 05″|15.7
