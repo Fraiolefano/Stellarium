@@ -1,4 +1,0 @@
-|1|3359|Spiral galaxy|Ursa Major|161.6525|63.22361111111111|11.0
-|2|Messier 42;Orion Nebula|Diffuse nebula|Orion|83.82208333333332|-5.391111111111112|5
-|3|Messier 31;Andromeda Galaxy|Barred spiral galaxy|Andromeda|10.684583333333332|41.26916666666666|4.3
-|4|Crescent Nebula|Diffuse nebula|Cygnus|303.02916666666664|38.35|7.4
