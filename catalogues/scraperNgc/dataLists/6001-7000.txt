@@ -1,0 +1,214 @@
+|6025||Open cluster|Triangulum Australe|16h 03m 42s|−60° 30′ 00″|5.1
+|6027|(Part of Seyfert's Sextet)|Interacting galaxy|Serpens|15h 59m 12.7s|+20° 45′ 47″|14.7
+|6027a|(Part of Seyfert's Sextet)|Interacting galaxy|Serpens|15h 59m 11.5s|+20° 45′ 14″|15.1
+|6027b|(Part of Seyfert's Sextet)|Interacting galaxy|Serpens|15h 59m 11.0s|+20° 45′ 42″|15.4
+|6027c|(Part of Seyfert's Sextet)|Interacting galaxy|Serpens|15h 59m 12.1s|+20° 44′ 47″|16.0
+|6027d|(Part of Seyfert's Sextet)|Spiral galaxy|Serpens|15h 59m 13.2s|+20° 45′ 33″|15.6
+|6027e|(Part of Seyfert's Sextet)|Interacting galaxy|Serpens|15h 59m 15.1s|+20° 45′ 55″|16.5
+|6043||Interacting galaxy|Hercules|16h 005m 01.2s[5]|+17° 46′ 26″[5]|15.4
+|6052||Interacting galaxy|Hercules|16h 05m 12.880s|+20° 32′ 32.61″|13.0
+|6087||Open cluster|Norma|16h 19m|−57° 56′|5.9
+|6093|Messier 80|Globular cluster|Scorpius|16h 17m 02.5s|−22° 58′ 30″|8.7
+|6104|IRAS 16146 + 3549;MCG 6-36-11;PGC 57684;UGC 10309|Barred spiral galaxy|Corona Borealis|16h 16m 30.7s|+35° 42′ 29″|12.933
+|6120||Spiral galaxy|Corona Borealis|16h 19m 48.1s|+37° 46′ 28″|14.6
+|6121|Messier 4|Globular cluster|Scorpius|16h 23m 35.4s|−26° 31′ 32″|8.1
+|6124||Open cluster|Scorpius|16h 25m 36s|−40° 40′ 00″|5.8
+|6125||Elliptical galaxy|Draco|16h 19m 11.7s|+57° 59′ 03″|13.0
+|6127|(Duplicate of NGC 6125)|Elliptical galaxy|Draco|16h 19m 11.7s|+57° 59′ 03″|13.0
+|6128|(Duplicate of NGC 6125)|Elliptical galaxy|Draco|16h 19m 11.7s|+57° 59′ 03″|13.0
+|6134||Open cluster|Norma|16h 27m 46.5s|–49° 09′ 04″|7.2
+|6139||Globular cluster|Scorpius|16h 27m 41.6s|–38° 50′ 18″|9.68
+|6144||Globular cluster|Scorpius|16h 27m 14.1s|–26° 01′ 29″|9.63
+|6152||Open cluster|Norma|16h 33m|−52° 38′|8.1
+|6153||Planetary nebula|Scorpius|16h 31m 30.6s|–40° 15′ 12″|9.9
+|6158|CGCG 224-31;MCG 7-34-41;PGC 58198|Elliptical galaxy|Hercules|16h 27m 40.9s|+39° 22′ 59″|14.68
+|6164|HD 148937;SAO 226891|Variable star and diffuse nebula|Norma|16h 33m 52.4s|−48° 06′ 40″|7.0
+|6165|HD 148937;SAO 226891|Variable star and diffuse nebula|Norma|16h 33m 52.4s|−48° 06′ 40″|7.0
+|6166|UGC 10409;PGC 58265|Elliptical galaxy|Hercules|16h 28m 38.276s|+39° 33′ 04.97″|12.78
+|6167||Open cluster|Norma|16h 34m 34s|−49° 46′ 18″|6.7
+|6169||Open cluster|Norma|16h 34m 06.7s|−44° 00′ 58″|6.6
+|6171|Messier 107|Globular cluster|Ophiuchus|16h 32m 31.9s|−13° 03′ 13″|10.0
+|6181|PGC 58470|Barred spiral galaxy|Hercules|16h 32m 20.9s|+19° 49′ 36″|10.42
+|6188|Rim Nebula|Diffuse nebula|Ara|16h 40m 05s|−48° 47′|
+|6193||Open cluster|Ara|16h 41m|−48° 46′|5.3
+|6205|Messier 13;Hercules Globular Cluster|Globular cluster|Hercules|16h 41m 41s|+36° 27′ 37″|5.8
+|6207|UGC 10521;MCG 6-37-7;ZWG 197.7;PGC 58827;KUG 1641+369;IRAS16412+3655;KARA 766;Uppsala 10521|Spiral galaxy|Hercules|16h 43m 03.7s|+36° 49′ 57″|11.7 ± 0.4
+|6210||Planetary nebula|Hercules|16h 44m 29.5s|+23° 48′ 00″|12.3
+|6218|Messier 12|Globular cluster|Ophiuchus|16h 47m 14.5s|−01° 56′ 52″|8.5
+|6221|ESO 138-3;AM 1648-590;IRAS16484-5908;PGC 59175|Barred spiral galaxy|Ara|16h 52m 46.1s|−59° 13′ 07″|9.28
+|6229|GCL 47|Globular cluster|Hercules|16h 46m 58.8s|+47° 31′ 40″|9.4
+|6231||Open cluster|Scorpius|16h 54m 08.5s|−41° 49′ 36″|2.8
+|6239|UGC 10577;MCG 7-35-1;ZWG 225.2;PGC 59083;ZWG 224.105;IRAS16484+4249|Barred spiral galaxy|Hercules|16h 50m 5s|+42° 44′ 23″|11.27
+|6240|Starfish Galaxy|Irregular galaxy|Ophiuchus|16h 52m 59.0s|+02° 24′ 02″|14.7
+|6242||Open cluster|Scorpius|16h 55m|−39° 28′|7.1
+|6254|Messier 10|Globular cluster|Ophiuchus|16h 57m 09.0s|−04° 05′ 58″|6.4
+|6256|GCL 49.1;ESO 391-SC6;vdB-Hagen 208|Globular cluster|Scorpius|16h 59m 32.7s|−37° 07′ 17″|11.3
+|6266|Messier 62|Globular cluster|Ophiuchus|17h 01m 12.6s|−30° 06′ 45″|8.6
+|6273|Messier 19|Globular cluster|Ophiuchus|17h 02m 37.7s|−26° 16′ 05″|8.5
+|6284|GCL 53;ESO 518-SC9|Globular cluster|Ophiuchus|17h 04m 28.7s|−24° 45′ 52″|8.9
+|6285|MCG 10-24-81;ZWG 299.37;ARP 293;PGC 59344;KAZ 111|Spiral galaxy|Draco|16h 58m 24s|+58° 57′ 21″|14.48 ± 0.15
+|6286|GCL 49.1;ESO 391-SC6;vdB-Hagen 208|Spiral galaxy|Draco|16h 58m 31.4s|+58° 56′ 11″|11.3
+|6287|GCL 54;ESO 518-SC10|Globular cluster|Ophiuchus|17h 05m 19.3s|−22° 42′ 29″|9.3
+|6293|GCL 55;ESO 519-SC5|Globular cluster|Ophiuchus|17h 16m 59.5s|−26° 34′ 54″|8.3
+|6300|ESO 101-25;VV 734;IRAS17123-6245;PGC 60001|Seyfert galaxy|Ara|17h 16m 59.5s|−62° 49′ 40″|8.78
+|6302|Bug Nebula|Planetary nebula|Scorpius|17h 13m 44.2s|−37° 06′ 16″|7.1
+|6304|ESO454-SC2|Globular Cluster|Ophiuchus|17h 14m 32.5s|−29° 27′ 44″|8.22
+|6309|PK 9+14.1;CS=14.4;Box nebula|Planetary nebula|Ophiuchus|17h 14m 04.3s|−12° 54′ 38″|11.5
+|6316|GCL 57;ESO 454-SC4|Globular cluster|Ophiuchus|17h 16m 37.4s|−28° 08′ 24″|8.1
+|6325|GCL 58;ESO 519-SC11|Globular cluster|Ophiuchus|17h 17m 59.3s|−23° 45′ 58″|10.2
+|6326|PK 338-8.1;ESO 228-PN1;AM 1716-514;CS=13.5|Planetary nebula|Ara|17h 20m 46.3s|−51° 45′ 16″|12.2
+|6328|ESO 102-3;AM 1718-645;PGC 60198|Spiral galaxy|Ara|17h 23m 41.0s|−12° 54′ 38″|7.64
+|6333|Messier 9|Globular cluster|Ophiuchus|17h 19m 11.8s|−18° 30′ 59″|9.4
+|6334|Cat's Paw Nebula|Supernova remnant|Scorpius|17h 19m 58.0s|−35° 57′ 47″|
+|6340||Spiral galaxy|Draco|17h 10m 25.1s|+72° 18′ 17″|11.9
+|6341|Messier 92|Globular cluster|Hercules|17h 17m 07.3s|+43° 08′ 12″|6.3
+|6357|War and Peace Nebula|Diffuse nebula|Scorpius|17h 24m|−34° 20′|
+|6369|Little Ghost Nebula|Planetary nebula|Ophiuchus|17h 29m 20.4s|−23° 45′ 34″|16.6
+|6397||Globular cluster|Ara|17h 40m 41.4s|−53° 40′ 25″|7.4
+|6401||Globular cluster|Ophiuchus|17h 38m 36.93s|−23° 54′ 31.5″|7.4
+|6402|Messier 14|Globular cluster|Ophiuchus|17h 37m 36.2s|−03° 14′ 45″|9.6
+|6405|Messier 6;Butterfly Cluster|Open cluster|Scorpius|17h 40m|−32° 12′|4.5
+|6412||Spiral galaxy|Draco|17h 29m 37.5s|+75° 42′ 16″|11.62
+|6426||Globular cluster|Ophiuchus|17h 44m 54.7s|+3° 10′ 13″|11.01
+|6440||Globular cluster|Sagittarius|17h 48m 52.7s|−20° 21′ 36.9″|10.1
+|6441||Globular cluster|Scorpius|17h 50m 13.06s|−37° 03′ 05.2″|7.2
+|6445||Planetary nebula|Sagittarius|17h 49m 15s|−20° 00′ 35″|11.2
+|6452||Lenticular galaxy|Hercules|17h 47m 58.5s|+20° 50′ 16″|14.4
+|6453||Globular cluster|Scorpius|17h 50m 51.7s|−34° 35′ 59.6″|10.1
+|6475|Messier 7|Open cluster|Scorpius|17h 54m|−34° 47′|3.5
+|6494|Messier 23|Open cluster|Sagittarius|17h 57m|−18° 59′|6.0
+|6496||Globular cluster|Scorpius|17h 59m 02.0s|−44° 15′ 55″|10.0
+|6500||Spiral galaxy|Hercules|17h 55m 59.8s
+|6514|Messier 20;Trifid Nebula|Diffuse nebula|Sagittarius|18h 02m 23s|−23° 02′|6.8
+|6520||Open cluster|Sagittarius|18h 03m|−27° 53′|7.6
+|6522|(Located in Baade's Window)|Globular cluster|Sagittarius|18h 03m 34.1s|−30° 02′ 02″|10.7
+|6523|(Located in Messier 8 (Lagoon Nebula))|Open cluster|Sagittarius|18h 03m|−24° 23′|
+|6530|(Located in Messier 8 (Lagoon Nebula))|Open cluster|Sagittarius|18h 05m|−24° 22′|4.7
+|6531|Messier 21|Open cluster|Sagittarius|18h 04m|−22° 29′|6.0
+|6537|Red Spider Nebula|Planetary nebula|Sagittarius|18h 05m 13.1s|−19° 50′ 35″|13.6
+|6543|Cat's Eye Nebula|Planetary nebula|Draco|17h 58m 33.4s|+66° 38′ 00″|9.8
+|6559||Diffuse nebula[1]|Sagittarius|18h 10m|-24°|
+|6560||Spiral galaxy|Hercules|18h 05m 14.2s|+46° 52′ 53″|14.2
+|6565||Planetary nebula|Sagittarius|18h 11m 52.5s|−28° 10′ 42″|12.5
+|6575||Elliptical galaxy|Hercules|18h 10m 57.5s|31° 06′ 57″|13.0
+|6578||Planetary nebula|Sagittarius|18h 16m 16.5s|−20° 27′ 03″|12.9
+|6589||Diffuse nebula|Sagittarius|18h 16m 50.4s|−19° 53′ 24″|10.5
+|6590||Diffuse nebula|Sagittarius|18h 17m 00s|−19° 53′|9.8
+|6600|(Duplicate of NGC 6599)|Galaxy|Hercules|18h 15m 43.0s|25° 54′ 45″|13.62
+|6601||Galaxy|Draco|18h 11m 44.3s|61° 27′ 12″|15.6
+|6602||Galaxy|Hercules|18h 16m 34.3s|25° 02′ 39″|14.6
+|6603|Messier 24|Open cluster|Sagittarius|18h 18m|−18° 26′|11.1
+|6604||Open cluster|Serpens|18h 18m 02.9s|−12° 14′ 35″|6.5
+|6605||Open cluster|Serpens|18h 16m 21.7s|−15° 00′ 55″|6.0
+|6606||Galaxy|Lyra|18h 14m 41.6s|° 43′ 16″|13.6
+|6607||Galaxy|Draco|18h 12m 14.7s|° 61′ 19″|15.3
+|6608||Galaxy|Draco|18h 12m 28.9s|° 61′ 17″|14.9
+|6609||Galaxy|Draco|18h 12m 33.6s|° 61′ 19″|14.5
+|6610||Galaxy|Hercules|18h 11m 51.2s|14° 58′ 54″|12.83
+|6611|Messier 16;Eagle Nebula|Open cluster|Serpens|18h 19m|−13° 49′|6.6
+|6612||Galaxy|Lyra|18h 16m 10.8s|° 36′ 04″|14.5
+|6613|Messier 18|Open cluster|Sagittarius|18h 20m|−17° 06′|7.2
+|6614||Galaxy|Pavo|18h 25m 07.7s|−63° 14′ 51″|12.1
+|6615||Galaxy|Ophiuchus|18h 18m 33.5s|13° 15′ 54″|13.2
+|6616||Galaxy|Hercules|18h 17m 41.1s|22° 14′ 18″|14.0
+|6617||Galaxy|Draco|18h 14m 02.5s|61° 19′ 10″|14.7
+|6618|Messier 17;Swan Nebula;Omega Nebula|Open cluster|Sagittarius|18h 20m 26s|−16° 11′|6.7
+|6619||Galaxy|Hercules|18h 18m 55.5s|23° 39′ 20″|13.1
+|6620||Planetary nebula|Sagittarius|18h 22m 54.1s|−26° 99′ 18″|12.7
+|6621||Interacting galaxy|Draco|18h 12m 55.3s|68° 21′ 48″|14
+|6622||Galaxy|Draco|18h 12m 59.8s|68° 21′ 14″|15.0
+|6623||Galaxy|Hercules|18h 19m 42.9s|23° 42′ 20″|13.3
+|6624||Globular cluster|Sagittarius|18h 23m 40.7s|−30° 21′ 39″|8.7
+|6625||Open cluster|Scutum|18h 23m 02.0s|−12° 01′ 26″|9.0
+|6626|Messier 28|Globular cluster|Sagittarius|18h 24m 32.9s|−24° 52′ 11″|8.7
+|6627||Galaxy|Hercules|18h 22m 38.9s|° 15′ 41″|13.2
+|6628||Galaxy|Hercules|18h 22m 21.9s|° 23′ 28″|13.0
+|6629||Planetary nebula|Sagittarius|18h 25m 42.4s|−23° 12′ 10″|11.3
+|6630||Galaxy|Pavo|18h 32m 35.1s|−63° 17′ 36″|13.7
+|6631||Open cluster|Scutum|18h 27m 11.3s|−12° 01′ 52″|11.7
+|6632||Galaxy|Hercules|18h 25m 03.1s|° 27′ 32″|12.3
+|6633||Open cluster|Ophiuchus|18h 27m 31.2s|+06° 34′ 12″|5.0
+|6634|Messier 69|Globular cluster|Sagittarius|18h 31m 23.2s|−32° 20′ 53″|9.3
+|6635||Galaxy|Hercules|18h 27m 37.1s|° 14′ 49″|13.5
+|6636||Galaxy|Draco|18h 22m 03.9s|° 66′ 37″|13.5
+|6637|Messier 69|Globular cluster|Sagittarius|18h 31m 23.2s|−32° 20′ 53″|9.3
+|6638||Globular cluster|Sagittarius|18h 30m 56.2s|−25° 29′ 47″|9.2
+|6639||Open cluster|Scutum|18h 30m 59.3s|−13° 09′ 21″|
+|6640||Galaxy|Lyra|18h 28m 08.3s|° 34′ 18″|13.7
+|6641||Galaxy|Hercules|18h 28m 57.4s|° 22′ 54″|13.5
+|6642||Globular cluster|Sagittarius|18h 31m 54.2s|−23° 28′ 34″|8.9
+|6643||Galaxy|Draco|18h 19m 46.4s|° 74′ 34″|11.5
+|6644||Planetary nebula|Sagittarius|18h 32m 34.7s|−25° 07′ 44″|10.7
+|6645||Open cluster|Sagittarius|18h 32m 37.9s|−16° 53′ 02″|8.5
+|6646||Galaxy|Lyra|18h 29m 38.7s|° 39′ 51″|13.0
+|6647||Open cluster|Sagittarius|18h 32m 49.3s|−17° 13′ 43″|
+|6648||Double star|Draco|18h 25m 37.8s|° 64′ 58″|
+|6649||Open cluster|Scutum|18h 33m 27.9s|−10° 24′ 10″|8.9
+|6650||Galaxy|Draco|18h 25m 28.0s|° 68′ 00″|13.9
+|6651||Galaxy|Draco|18h 24m 19.7s|° 71′ 36″|13.3
+|6652||Globular cluster|Sagittarius|18h 35m 45.7s|−32° 59′ 25″|8.5
+|6653||Galaxy|Pavo|18h 44m 38.4s|−73° 15′ 48″|12.5
+|6654||Galaxy|Draco|18h 24m 07.6s|° 73′ 11″|11.8
+|6655||Double star|Scutum|18h 34m 30.9s|−05° 55′ 15″|
+|6656|Messier 22|Globular cluster|Sagittarius|18h 36m 24.2s|−23° 54′ 12″|7.2
+|6681|Messier 70|Globular cluster|Sagittarius|18h 43m 12.6s|−32° 17′ 31″|9.8
+|6694|Messier 26|Open cluster|Scutum|18h 45m|−09° 23′|8.0
+|6705|Messier 11;Wild Duck Cluster|Open cluster|Scutum|18h 51m|−06° 16′|6.3
+|6709||Open cluster|Aquila|18h 51m|+10° 19′|7.2
+|6712||Globular cluster|Scutum|18h 53m 04.3s|−08° 42′ 22″|9.9
+|6715|Messier 54|Globular cluster|Sagittarius|18h 55m 03.3s|−30° 28′ 43″|9.2
+|6720|Messier 57;Ring Nebula|Planetary nebula|Lyra|18h 53m 35.1s|+33° 01′ 45″|14.7
+|6723||Globular cluster|Sagittarius|18h 59m 33.1s|−36° 37′ 53″|8.7
+|6726|Anteater Nebula[6]|Nebula|Corona Australis|19h 02m [1]|−35° 53′[1]|
+|6727||Nebula|Corona Australis|19h 02m [1]|−36° 54′[1]|
+|6729||Nebula|Corona Australis|19h 01m 46.4s|−36° 57′ 40″|
+|6744||Spiral galaxy|Pavo|19h 09m 45.3s|−63° 51′ 21″|9.2
+|6745||Interacting galaxies|Lyra|19h 01m 41.7s|+40° 44′ 48″|13.3
+|6751||Planetary nebula|Aquila|19h 05m 55.6s|−05° 59′ 33″|15.8
+|6752||Globular cluster|Pavo|19h 10m 51.8s|−59° 58′ 55″|7.0
+|6755||Open cluster|Aquila|19h 08m|+04° 14′|8.6
+|6760||Globular cluster|Aquila|19h 11m 12.1s|+01° 01′ 50″|11.4
+|6766|(see NGC 6884)|Planetary nebula|Lyra|20h 10m 23.7s|+46° 27′ 40″|11.9
+|6779|Messier 56|Globular Cluster|Lyra|19h 16m 35.5s|+30° 11′ 04″|8.9
+|6781||Planetary nebula|Aquila|19h 18m 28.1s|+06° 32′ 19″|
+|6782||Spiral galaxy|Pavo|19h 23m 59.1s|−59° 55′ 23″|12.7
+|6790||Planetary nebula|Aquila|19h 22m 57.0s|+01° 30′ 46″|12.5
+|6791||Open cluster|Lyra|19h 20m 53s|+37° 46′|10.5
+|6803||Planetary nebula|Aquila|19h 31m 16.5s|+10° 03′ 22″|15.2
+|6809|Messier 55|Globular cluster|Sagittarius|19h 39m 59.4s|−30° 57′ 44″|8.1
+|6810||Spiral galaxy|Pavo|19h 43m 34.2s|−58° 39′ 20.1″|11.6
+|6814||Spiral Galaxy|Aquila|19h 42m 47.4s|+10° 18′ 45″|11.2
+|6818|Little Gem Nebula|Planetary nebula|Sagittarius|19h 43m 57.8s|−14° 09′ 12″|9.3
+|6819||Open cluster|Cygnus|19h 41m 18s|+40° 11′ 00″|7.3
+|6822|Barnard's Galaxy|Irregular galaxy|Sagittarius|19h 44m 57.8s|−14° 48′ 11″|18
+|6826|Blinking Planetary|Planetary nebula|Cygnus|19h 44m 48.2s|+50° 31′ 30″|10.2
+|6838|Messier 71|Globular cluster|Sagitta|19h 53m 46.1s|+18° 46′ 42″|7.9
+|6853|Messier 27;Dumbbell Nebula|Planetary nebula|Vulpecula|19h 59m 36.3s|+22° 43′ 16″|7.5
+|6861||lenticular galaxy|Telescopium|20h 07m 19.48s|−48° 22′ 12.8″|11.0
+|6863||Asterism|Aquila|20h 05m 7.3s|−03° 33′ 16″|
+|6864|Messier 75|Globular cluster|Sagittarius|20h 06m 04.8s|−21° 55′ 16″|10.0
+|6866||Open cluster|Cygnus|20h 3.7m|+44° 00′|7.6
+|6871||Open cluster|Cygnus|20h 09m 59.0s|+35° 46′ 36″|6.5
+|6872||Spiral galaxy|Pavo|20h 16m 56.0s|−70° 46′ 03″|12.5
+|6884|(Duplicate of NGC 6766)|Planetary nebula|Cygnus|20h 10m 23.7s|+46° 27′ 40″|11.9
+|6888|Crescent Nebula|Diffuse nebula|Cygnus|20h 12m 07s|+38° 21′|7.4
+|6891||Planetary nebula|Delphinus|20h 15m 08.8s|+12° 42′ 16″|10
+|6902||Spiral galaxy|Sagittarius|20h 24m 28.1s|−43° 39′ 12.4|11.82
+|6905||Planetary nebula|Delphinus|20h 22m 23s|+20° 06′ 16″|10.9
+|6907||Spiral galaxy|Capricornus|20h 25m 06.6s|−24° 48′ 33″|11.1
+|6910|OCl 181|Open cluster|Cygnus|20h 23m 08s|+40° 46′ 30″|7.4
+|6913|Messier 29|Open cluster|Cygnus|20h 23m 56s|+38° 31′|7.3
+|6914||Diffuse nebula|Cygnus|20h 25m|+42°|
+|6934||Globular cluster|Delphinus|20h 34m 11.5s|+07° 24′ 15″|10.5
+|6939||Open Cluster|Cepheus|20h 31m 30s|+60° 39′ 42″|7.8
+|6946||Spiral galaxy|Cepheus|20h 34m 51.4s|+60° 09′ 18″|10.5
+|6960|Western part of Veil Nebula 'Witch Broom'|Diffuse nebula|Cygnus|20h 45m 38.0s|+30° 42′ 30″|
+|6981|Messier 72|Globular cluster|Aquarius|20h 53m 27.9s|−12° 32′ 13″|10.0
+|6992|Eastern part of the Veil Nebula 'Banana Nebula'|Diffuse nebula|Cygnus|20h 57m|+31° 30′|
+|6994|Messier 73|Asterism[7]|Aquarius|20h 59m|−12° 38′|8.9
+|6995|(Part of the Veil Nebula)|Diffuse nebula|Cygnus|20h 57m|+31° 13′|
+|6996||Association of stars|Cygnus|20h 56m 25s|+45° 28′|
+|6997||Open cluster|Cygnus|20h 56m 40s|+44° 39′|10.0
+|6998||Elliptical galaxy|Microscopium|21h 01m 37.7s|−28° 01′ 55″|15.6
+|6999||Lenticular galaxy|Microscopium|21h 01m 59.5s|−28° 03′ 32″|
+|7000|North America Nebula|Diffuse nebula|Cygnus|20h 58m 47s|+44° 20′|4
